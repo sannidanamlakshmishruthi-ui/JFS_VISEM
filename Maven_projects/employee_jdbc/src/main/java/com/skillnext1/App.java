@@ -1,5 +1,6 @@
 package com.skillnext1;
 
+
 import java.util.*;
 
 public class App {
